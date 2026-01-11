@@ -13,12 +13,12 @@ A real-time computer vision–based web application that translates American Sig
 - Suitable for academic, portfolio, and demonstration purposes
 
 🧠 Tech Stack
-Language: Python  
-Computer Vision: OpenCV, MediaPipe  
-Vector Search: FAISS  
-Numerical Computing: NumPy  
-Text-to-Speech: pyttsx3  
-Web Framework: Streamlit
+- Language: Python  
+- Computer Vision: OpenCV, MediaPipe  
+- Vector Search: FAISS  
+- Numerical Computing: NumPy  
+- Text-to-Speech: pyttsx3  
+- Web Framework: Streamlit
 
 ⚙️ Installation and Setup
 
