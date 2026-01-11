@@ -18,19 +18,7 @@ Computer Vision: OpenCV, MediaPipe
 Vector Search: FAISS  
 Numerical Computing: NumPy  
 Text-to-Speech: pyttsx3  
-Web Framework: Streamlit  
-
-📁 Project Structure
-ASL-Translator/
-│
-├── app.py                         Streamlit application
-├── requirements.txt               Project dependencies
-├── index_labels/
-│   ├── faiss_index_ivfflat.index  FAISS index for gesture embeddings
-│   └── index_to_label.pkl         Index-to-label mapping
-├── dataset/
-│   └── asl_alphabet_train/        ASL alphabet dataset
-└── README.md
+Web Framework: Streamlit
 
 ⚙️ Installation and Setup
 
@@ -64,10 +52,6 @@ http://localhost:8501
 - Sentence can be cleared at any time while the camera is running
 - The system ignores invalid or unstable gestures to improve accuracy
 
-📌 Disclaimer
-This project is intended for educational and demonstration purposes only. It is not a certified sign language translation system and may not cover all ASL grammar or vocabulary.
+📌 Disclaimer: This project is intended for educational and demonstration purposes only. It is not a certified sign language translation system and may not cover all ASL grammar or vocabulary.
 
-👤 Author
-Ayanava Kundu  
-Computer Science and Engineering (Data Science)  
-AI/ML | Data Science | Software Development
+👤 Author: Ayanava Kundu, Computer Science and Engineering (Data Science) | AI/ML | Data Science | Software Development
