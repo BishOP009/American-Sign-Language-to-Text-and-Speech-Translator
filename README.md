@@ -20,18 +20,22 @@ A real-time computer vision–based web application that translates American Sig
 - Text-to-Speech: pyttsx3  
 - Web Framework: Streamlit
 
+📊 Dataset: https://drive.google.com/file/d/1veQMVhLURRfPmHoZPZNfc0VXe7su60gv/view?usp=sharing
+
 ⚙️ Installation and Setup
 
 1. Clone the repository
 git clone <repository-url>
 cd ASL-Translator
 
-2. Create a virtual environment (recommended)
+2. Download the datasets.rar file from the given google drive link and extract it.
+
+3. Create a virtual environment (recommended)
 python -m venv venv
 source venv/bin/activate
 Windows users: venv\Scripts\activate
 
-3. Install dependencies
+4. Install dependencies
 pip install -r requirements.txt
 
 ▶️ Run the Application
