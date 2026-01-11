@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+mediapipe
+faiss-cpu
+numpy
+pyttsx3
+tensorflow
